@@ -6,8 +6,8 @@ git clone https://github.com/sweet-stuffs/vendor_xiaomi_sm6150-common.git vendor
 git clone https://github.com/sweet-stuffs/vendor_xiaomi_sweet.git vendor/xiaomi/sweet
 
 # MIUI Camera
-git clone https://github.com/sweet-stuffs/device_xiaomi_miuicamera-sweet.git device/xiaomi/miuicamera-sweet
-git clone https://github.com/sweet-stuffs/vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
+git clone https://github.com/PixelOS-Devices/android_device_xiaomi_miuicamera-sweet.git device/xiaomi/miuicamera-sweet
+git clone https://gitlab.com/NoPrincessHere/proprietary_vendor_xiaomi_miuicamera-sweet.git vendor/xiaomi/miuicamera-sweet
 
 # Hardware Xiaomi
 git clone https://github.com/sweet-stuffs/hardware_xiaomi.git hardware/xiaomi
